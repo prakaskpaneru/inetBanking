@@ -79,7 +79,7 @@ public class Reporting extends TestListenerAdapter
 		logger.log(Status.SKIP, MarkupHelper.createLabel(tr.getName(), ExtentColor.ORANGE));
 	}
 	
-	public void onFinish(ITestResult tr)
+	public void onFinish(ITestContext testContext)
 	{
 		extent.flush();
 	}

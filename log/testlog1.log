@@ -1,0 +1,17 @@
+2020-05-01 15:12:49,243 [main] INFO ebanking - Entered username
+2020-05-01 15:12:49,502 [main] INFO ebanking - Entered Password
+2020-05-01 15:12:50,343 [main] INFO ebanking - Clicked on submit button
+2020-05-01 15:12:57,459 [main] INFO ebanking - Test Passed
+2020-05-01 15:13:06,261 [main] INFO ebanking - User Name provided
+2020-05-01 15:13:06,539 [main] INFO ebanking - Password provided
+2020-05-01 15:13:18,992 [main] INFO ebanking - providing customer details .........
+2020-05-01 15:13:27,841 [main] INFO ebanking - Validation started ........
+2020-05-01 15:13:55,516 [main] INFO ebanking - Entered username
+2020-05-01 15:13:56,280 [main] INFO ebanking - Entered Password
+2020-05-01 15:13:57,034 [main] INFO ebanking - Clicked on submit button
+2020-05-01 15:14:04,106 [main] INFO ebanking - Test Passed
+2020-05-01 15:14:12,218 [main] INFO ebanking - User Name provided
+2020-05-01 15:14:13,462 [main] INFO ebanking - Password provided
+2020-05-01 15:14:25,908 [main] INFO ebanking - providing customer details .........
+2020-05-01 15:14:36,104 [main] INFO ebanking - Validation started ........
+2020-05-01 15:14:36,130 [main] INFO ebanking - Test case is passed .......

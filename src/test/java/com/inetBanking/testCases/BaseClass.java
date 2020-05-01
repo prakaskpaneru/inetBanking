@@ -34,7 +34,7 @@ public class BaseClass {
 	public void setup(String br)
 	{
 		logger = Logger.getLogger("ebanking");
-		PropertyConfigurator.configure("log4j.properties");
+		PropertyConfigurator.configure("Log4j.properties");
 		
 		if (br.equals("chrome"))
 		{
@@ -50,7 +50,7 @@ public class BaseClass {
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		
 		driver.get(baseURL);
-		logger.info("URL is Opened");
+//		logger.info("URL is Opened");
 		
 	}
 	
